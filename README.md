@@ -1,4 +1,4 @@
-# Finance & Supply-Chain Analysis
+# Finance and Supply-Chain Analytics
 This project involves performing financial and supply chain analytics on Atliq hardwares data. The primary objective is to answer various analytical questions related to sales, gross sales, market, product, customers, and supply chain forecasting.
  
 ## Project Overview
